@@ -1,4 +1,4 @@
-you add the starting picture's width and height to the dataset
+qweyou add the starting picture's width and height to the dataset
 you also tretun an array of specific widget id's with the width and height of each. when they change pic's have the javascript add that width and height (maybe just width)
 
 
